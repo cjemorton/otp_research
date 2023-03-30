@@ -1,4 +1,6 @@
 # otp_research
+ORIGONAL SOURCE MATERIAL CURRENTLY LOCATED HERE: https://www.ciphermachinesandcryptology.com/index.htm
+
 Cryptography Research Source Files.
 
 NOTE: This is just a private mirror of the reference material, I have placed these here for personal quick reference. 
